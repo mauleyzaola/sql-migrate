@@ -3,3 +3,9 @@
 
 /sql-migrate/test.db
 /test.db
+
+# ide files
+.idea
+
+# vendored files
+#vendor/
